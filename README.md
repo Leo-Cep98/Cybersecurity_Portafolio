@@ -22,3 +22,6 @@ I am an IT professional with expertise in **quality assurance, automation, and e
 
 ## Vulnerability assessment report template 🚧
 - This file is a vulnerability assesment for a given scenario
+
+## Incident Handler's Jorunal (Mock up) 📃
+- This file contais records of some incidents reported handled by a security team, with some insights about my learning across these incidets documented. 
