@@ -25,3 +25,6 @@ I am an IT professional with expertise in **quality assurance, automation, and e
 
 ## Incident Handler's Jorunal (Mock up) 📃
 - This file contais records of some incidents reported handled by a security team, with some insights about my learning across these incidets documented. 
+
+## Algorithm for file updates using pyton 🐍
+- This file countains a breakdown of an algorytim in order to keep a file updated based with IP addresses to determine with users can access restricted information, non authorized ip addresses will be removed.
